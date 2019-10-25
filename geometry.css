@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: Gainsboro;
+}
+
+#content {
+    width: 10px auto;
+    height: 603px;
+    margin: 5px auto;
+    padding: 5px 20px;
+    background: black;
+    color: white;
+}
+
+h1 {
+	text-align: center;
+    color: DarkSeaGreen;
+}
+
+p {
+	color: Gainsboro;
+	font-weight: bold;
+	text-align: center;
+}
+
+label {
+    display: block;
+    width: 29.5em;
+    text-align: right;
+    padding-right: 1em;
+    float: left;
+}
+
+input {
+    display: block;
+    float: left;
+    width: 100px;
+}
+
+#futureValue {
+    color: #000000;
+}
+
+br {
+    clear: left;
+}
